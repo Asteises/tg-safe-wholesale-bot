@@ -1,0 +1,7 @@
+server:
+  port: 4361
+
+spring:
+  threads:
+    virtual:
+      enabled: true
